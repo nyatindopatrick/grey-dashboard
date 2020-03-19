@@ -1,0 +1,264 @@
+{
+    "articles":[
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jon Kamp, Anna Wilde Mathews",
+    "title": "Outbreaks Spreading in Nursing Homes...",
+    "description": "Outbreaks Spreading in Nursing Homes... (Top headline, 4th story, link ) Related stories: NETFLIX asked to slow streaming so Internet doesn't buckle... State Dept to tell Americans not to travel; Return home if overseas... National Guard Chief Sees 'Tens of T…",
+    "url": "https://www.wsj.com/articles/coronavirus-outbreaks-spreading-in-nursing-homes-11584628291",
+    "urlToImage": "https://images.wsj.net/im-166132/social",
+    "publishedAt": "2020-03-19T16:40:36Z",
+    "content": "The coronavirus outbreak is spreading to vulnerable, elderly residents, with scores of cases at facilities around the U.S., from Illinois to Oregon and Wyoming, following the deadly outbreak in a Seattle-area nursing home.\r\nBy Wednesday, 35 coronavirus deaths… [+272 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jacob Bunge and Jesse Newman",
+    "title": "Coronavirus-Era Food Supply: America Has a Lot. Moving It Is Tricky. - The Wall Street Journal",
+    "description": "Farm giants juggle operations to answer surge in demand and ready workers to fill in for any who fall ill; ‘Platoon coverage’",
+    "url": "https://www.wsj.com/articles/the-food-supply-u-s-has-a-lot-the-outbreak-makes-moving-it-tricky-11584631411",
+    "urlToImage": "https://images.wsj.net/im-166406/social",
+    "publishedAt": "2020-03-19T16:23:00Z",
+    "content": "You wouldnt know it from the bare grocery store shelves across the country, but America has plenty of food. The challenge is getting it from the farm to your table.\r\nCompanies that supply meat, vegetables and other staples are struggling to redirect the natio… [+107 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Justin Lahart",
+    "title": "The Job Shock Begins: Spike in claims...",
+    "description": "The Job Shock Begins: Spike in claims... (Second column, 3rd story, link ) Related stories: BANK OF AMERICA: Recession already here... 'Wealth will be destroyed'... Factory Index Slumps Most on Record... RUSH FOR CASH... White House mulls new 50-year bonds...",
+    "url": "https://www.wsj.com/articles/the-job-shock-begins-11584631568",
+    "urlToImage": "https://images.wsj.net/im-166609/social",
+    "publishedAt": "2020-03-19T16:04:44Z",
+    "content": "Americas job market just got a hammer taken to it. How it fares in the days and months aheadand what policymakers are able to do to blunt the distress of workers and their employerswill determine how bad the recession will be and how healthy the economy will … [+270 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Margherita Stancati",
+    "title": "Italy’s Virus Death Toll on the Cusp of Overtaking China’s - The Wall Street Journal",
+    "description": "Italy’s Virus Death Toll on the Cusp of Overtaking China’s The Wall Street Journal 475 deaths in Italy in 24 hours -- the nation's most COVID-19 fatalities in a day | WNT ABC News Italy coronavirus deaths rise by record 475 in a day BBC News I’m a Doctor in I…",
+    "url": "https://www.wsj.com/articles/italys-virus-death-toll-on-the-cusp-of-overtaking-chinas-11584626731",
+    "urlToImage": "https://images.wsj.net/im-166262/social",
+    "publishedAt": "2020-03-19T15:05:00Z",
+    "content": "ROMEItalys death toll from the coronavirus is poised to overtake Chinas, making Italys outbreak the deadliest in the world and highlighting the danger that the pandemic poses for elderly people in particular.\r\nBased on the fast-rising number of deaths in Ital… [+191 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Nick Timiraos",
+    "title": "Federal Reserve Establishes Currency Swap Lines With Nine More Countries - The Wall Street Journal",
+    "description": "Federal Reserve Establishes Currency Swap Lines With Nine More Countries The Wall Street Journal Federal Reserve to shore up prime money market funds amid Wall Street rout CNBC Fed Faces Pressure to Do More as Virus Demands a Response The New York Times The F…",
+    "url": "https://www.wsj.com/articles/federal-reserve-establishes-currency-swap-lines-with-nine-more-countries-11584623004",
+    "urlToImage": "https://images.wsj.net/im-161569/social",
+    "publishedAt": "2020-03-19T14:03:00Z",
+    "content": "The Federal Reserve said on Thursday it would establish a temporary program to help lend dollars to nine central banks to alleviate ongoing strains in financial markets.\r\nThe Fed on Sunday already announced it would adjust a program with five other foreign ce… [+181 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Alex Leary, Michael C. Bender",
+    "title": "Trump Re-Election Strategy Shifts Focus to Crisis Leadership - The Wall Street Journal",
+    "description": "Trump Re-Election Strategy Shifts Focus to Crisis Leadership The Wall Street Journal Sanders responds angrily to reporter when asked about his campaign: 'I'm dealing with a f**king global crisis' CNN Biden projected to win Arizona, Florida and Illinois Democr…",
+    "url": "https://www.wsj.com/articles/trump-campaign-strategy-shifts-focus-to-crisis-leadership-11584610201",
+    "urlToImage": "https://images.wsj.net/im-166426/social",
+    "publishedAt": "2020-03-19T13:09:56Z",
+    "content": "WASHINGTONThe coronavirus crisis is rapidly changing President Trumps re-election strategy, forcing him into the position of leading the nation through a sprawling, complex emergency while undermining his greatest asset: a strong economy.\r\nMr. Trump this week… [+212 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Dan Frosch, Ian Lovett, Deanna Paul",
+    "title": "TESTING CHAOS ACROSS AMERICA",
+    "description": "TESTING CHAOS ACROSS AMERICA (Main headline, 2nd story, link ) Related stories: TRUMP INVOKES WARTIME AUTHORITY MERKEL: BIGGEST CHALLENGE SINCE WWII RUSH FOR CASH RATTLES MARKETS",
+    "url": "https://www.wsj.com/articles/coronavirus-testing-chaos-across-america-11584618703",
+    "urlToImage": "https://images.wsj.net/im-165836/social",
+    "publishedAt": "2020-03-19T12:34:37Z",
+    "content": "Feeling sick on Friday, Rachael Willingham went to the doctor, who gave her an order for the new coronavirus test and sent her to a mobile clinic the Colorado health department had set up.\r\nWhen she arrived at 9:45 a.m., a half-dozen police officers were bloc… [+111 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "AnnaMaria Andriotis, Ben Eisen",
+    "title": "Consumers Face Massive Credit Crunch. Lenders Still Figuring Out What To Do...",
+    "description": "Out-of-work customers could miss loan payments and suffer plunging credit scores; lenders and credit-reporting firms are being asked to help",
+    "url": "https://www.wsj.com/articles/consumers-face-a-massive-credit-crunch-lenders-are-still-figuring-out-what-to-do-11584610200",
+    "urlToImage": "https://images.wsj.net/im-166418/social",
+    "publishedAt": "2020-03-19T11:49:37Z",
+    "content": "U.S. consumers are facing what could become the biggest credit crunch since the Great Depression. Lenders and credit-reporting firms arent sure what to do about it.\r\nAs coronavirus spreads, thousands of wait staff, bartenders and airline employees are out of … [+105 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Denise Roland",
+    "title": "Wanted: People Willing to Get Sick to Find Vaccine...",
+    "description": "Wanted: People Willing to Get Sick to Find Vaccine... (First column, 5th story, link ) Related stories: Patient on hellish ordeal: 'I was screaming for mercy and praying to God'... A New York Doctor's Warning: The Sky Is Falling...",
+    "url": "https://www.wsj.com/articles/wanted-people-willing-to-get-sick-to-find-coronavirus-vaccine-11584615600",
+    "urlToImage": "https://images.wsj.net/im-166307/social",
+    "publishedAt": "2020-03-19T11:40:36Z",
+    "content": "Thousands of people have volunteered to be infected in the hope of finding a vaccine for the new coronavirus.\r\nhVIVO, a clinical research group in London, has attracted more than 20,000 volunteers willing to be infected with tamer relatives of the virus that … [+230 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Christopher Weaver, Betsy McKay, Brianna Abbott",
+    "title": "America Needed Tests. The Govt Failed...",
+    "description": "America Needed Tests. The Govt Failed... (Top headline, 6th story, link ) Related stories: No layoffs, reduced rent: 'Italian cure' for pandemic... Stocks wipe out all gains under Trump presidency... Gas prices could drop below $1 gallon... Virus Plan Anticip…",
+    "url": "https://www.wsj.com/articles/how-washington-failed-to-build-a-robust-coronavirus-testing-system-11584552147",
+    "urlToImage": "https://images.wsj.net/im-165733/social",
+    "publishedAt": "2020-03-19T11:40:36Z",
+    "content": "When cases of the new coronavirus began emerging several weeks ago in California, Washington state and other pockets of the country, U.S. public-health officials worried this might be The Big One, emails and interviews show.\r\nThe testing program they rolled o… [+86 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jeffrey Sparshott",
+    "title": "Newsletter: Where’s My $1,000 Check?",
+    "description": "Your daily economics newsletter from The Wall Street Journal.",
+    "url": "https://blogs.wsj.com/economics/2020/03/19/newsletter-wheres-my-1000-check/",
+    "urlToImage": "https://images.wsj.net/im-166496",
+    "publishedAt": "2020-03-19T10:57:20Z",
+    "content": "Mar 19, 2020 6:57 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. Americans Are Losing Work Employers are cutting shifts, suspending work and starting to lay off workers as the new coronavirus de… [+112 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Elizabeth Koh, Timothy W. Martin",
+    "title": "Samsung’s Shift Away From China Looked Smart—Then the Coronavirus Hit - The Wall Street Journal",
+    "description": "Samsung’s Shift Away From China Looked Smart—Then the Coronavirus Hit The Wall Street Journal iPhone 11 vs. Galaxy S20: Which phone should you buy? CNET Samsung Galaxy S20 Ultra review: the superphone that's a little too massive The Guardian Samsung Galaxy S2…",
+    "url": "https://www.wsj.com/articles/samsungs-shift-away-from-china-looked-smartthen-the-coronavirus-hit-11584610202",
+    "urlToImage": "https://images.wsj.net/im-166432/social",
+    "publishedAt": "2020-03-19T10:30:00Z",
+    "content": "When the novel coronavirus ripped through China earlier this year, Samsung Electronics Co. executives could take solace in a multiyear bet that diversified its smartphone production into Vietnam and India, insulating it somewhat as the worlds supply chain whe… [+273 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "WSJ Staff",
+    "title": "WSJ Wealth Adviser Briefing: Emerging Markets, Auto Industry, Elderly Parents",
+    "description": "Emerging markets took a hit as investors flee from riskier assets; the auto industry's record run of robust sales has been threatened by the coronavirus, and concerned adult children made parents question the definition of elderly.",
+    "url": "https://blogs.wsj.com/moneybeat/2020/03/19/wsj-wealth-adviser-briefing-emerging-markets-auto-industry-elderly-parents/",
+    "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+    "publishedAt": "2020-03-19T10:00:50Z",
+    "content": "Mar 19, 2020 6:00 am ET\r\n Investors in private equity are hoping coronavirus-related stock volatility doesnt force them to miss out on what could be a buy-low opportunity. With the Dow Jones Industrial Average losing more than a quarter of its value over the … [+143 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": null,
+    "title": "Coronavirus Update: Relief Law, Car Plants to Close and Fed Measures",
+    "description": "President Trump signs into law a relief bill to help families and workers, Detroit car makers to halt work at their plants in the U.S., and the Federal Reserve announces a new lending facility in hopes of easing market turmoil: WSJ’s Shelby Holliday has the l…",
+    "url": "https://www.wsj.com/video/coronavirus-update-relief-law-car-plants-to-close-and-fed-measures/993D71D7-6E49-43EE-8301-6C073314ED9C.html",
+    "urlToImage": "http://m.wsj.net/video/20200319/031920virusnews/031920virusnews_1280x720.jpg",
+    "publishedAt": "2020-03-19T09:44:05Z",
+    "content": "Ackman to Trump: Shut Down the U.S.\r\n3/18/2020In a barage of tweets, Bill Ackman, founder &amp; CEO of Pershing Square, urged the Trump Administration to consider a nationwide closure. \"Tell all Americans that you are putting us on an extended Spring Break at… [+255 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Sara Castellanos",
+    "title": "Intel to Release Neuromorphic-Computing System - The Wall Street Journal",
+    "description": "Intel to Release Neuromorphic-Computing System The Wall Street Journal Intel is making a computer chip that can smell like a human ZDNet Intel's New Research System Has the Neural Capacity of a Small Mammal Brain Tom's Hardware Intel's 'Pohoiki Springs' netwo…",
+    "url": "https://www.wsj.com/articles/intel-to-release-neuromorphic-computing-system-11584540000",
+    "urlToImage": "https://images.wsj.net/im-163794/social",
+    "publishedAt": "2020-03-19T09:41:03Z",
+    "content": "Intel Corp.\r\nis releasing an experimental research system for neuromorphic computing, a cutting-edge method that simulates the way human brains work to perform computations faster, using significantly less energy.The system, called Pohoiki Springs, will be ma… [+4197 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": null,
+    "title": "Traders Question Circuit Breakers. Here’s Why",
+    "description": "The S&P 500 lost more than 7% Wednesday, triggering a circuit breaker for the fourth time this month. Circuit breakers were created as guardrails for wild market moves, but as investors exit stocks amid widening economic damage, some question how well they wo…",
+    "url": "https://www.wsj.com/video/traders-question-circuit-breakers-heres-why/496A1744-F586-4B44-9184-FFB3B802C1A0.html",
+    "urlToImage": "http://m.wsj.net/video/20200319/circuitbreakers031820lov2.00011620.still003/circuitbreakers031820lov2.00011620.still003_1280x720.jpg",
+    "publishedAt": "2020-03-19T08:02:44Z",
+    "content": "Ackman to Trump: Shut Down the U.S.\r\n3/18/2020In a barage of tweets, Bill Ackman, founder &amp; CEO of Pershing Square, urged the Trump Administration to consider a nationwide closure. \"Tell all Americans that you are putting us on an extended Spring Break at… [+255 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "George",
+    "title": "Lockdown of Recovering Italian Town Shows Effectiveness of Early Action",
+    "description": "Codogno’s experience “tells us that if you introduce social distancing earlier, you will have a lower spread of cases, and if you have a lower spread, you will have fewer deaths,” said Melinda Mills, a professor of sociology at Oxford University.",
+    "url": "https://www.wsj.com/articles/lockdown-of-recovering-italian-town-shows-effectiveness-of-early-action-11584391837",
+    "urlToImage": "https://images.wsj.net/im-164988/social",
+    "publishedAt": "2020-03-19T06:32:53Z",
+    "content": "In mid-February, a 38-year-old man in Codogno, a small town just outside Milan, became the first known person to be infected with the new coronavirus in Italy.The reaction by local authorities was swift. The roughly 50,000 people who live in Codogno and nearb… [+5955 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Nick Timiraos",
+    "title": "Federal Reserve to Backstop Money-Market Mutual Funds Amid Coronavirus - The Wall Street Journal",
+    "description": "Federal Reserve to Backstop Money-Market Mutual Funds Amid Coronavirus The Wall Street Journal Should the Fed lend directly to businesses? Aljazeera.com Bernanke and Yellen: the Federal Reserve must reduce long-term damage from coronavirus Financial Times The…",
+    "url": "https://www.wsj.com/articles/federal-reserve-will-backstop-money-market-mutual-funds-amid-coronavirus-11584588654",
+    "urlToImage": "https://images.wsj.net/im-166466/social",
+    "publishedAt": "2020-03-19T04:30:52Z",
+    "content": "The Federal Reserve said Wednesday it would launch a new lending facility to backstop the money-market mutual-fund sector as part of a broadening effort to calm turmoil sparked by the novel coronavirus epidemic.\r\nThe Feds latest facility, called the Money Mar… [+192 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "James Rundle",
+    "title": "Everyone Here Is a Criminal or a Spy: How Darknet Groups Operate",
+    "description": "Buyers usually demand a sample of the data for sale or a demonstration that sellers have the access they claim. Forum moderators often act as middlemen, holding funds in escrow until delivery, for a cut. Reputation determines access levels, and scammers are q…",
+    "url": "https://www.wsj.com/articles/everyone-here-is-a-criminal-or-a-spy-how-darknet-groups-operate-11584523800",
+    "urlToImage": "https://images.wsj.net/im-165837/social",
+    "publishedAt": "2020-03-19T01:44:00Z",
+    "content": "Darknet groups where corporate employees illegally peddle inside information come with their own sets of rules. Stocknet, for instance, is a dark-web-hosted platform that offers an annual membership for one bitcoin, equivalent to just over $5,300 at the curre… [+2892 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Laura Saunders",
+    "title": "The New Tax Deadline: Pay by July 15 - The Wall Street Journal",
+    "description": "The New Tax Deadline: Pay by July 15 The Wall Street Journal IRS Issues Guidance On Tax Payment Deferrals, Confirms That Tax Filing Due Dates Have Not Been Extended Forbes IRS releases guidance on deferring tax payments due to coronavirus | TheHill The Hill T…",
+    "url": "https://www.wsj.com/articles/the-new-tax-deadline-pay-by-july-15-11584576882",
+    "urlToImage": "https://images.wsj.net/im-166340/social",
+    "publishedAt": "2020-03-19T01:14:00Z",
+    "content": "In a historic move, the Internal Revenue Service has pushed the April 15 tax-payment deadline to July 15 this year for many people who havent paid their 2019 taxes.\r\nOn Wednesday, the agency released details of the change in response to the coronavirus pandem… [+279 chars]"
+    }
+    ]
+    }

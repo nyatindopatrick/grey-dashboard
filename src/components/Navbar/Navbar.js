@@ -53,7 +53,7 @@ const navigation = [
   },
   {
     label: "Automation",
-    link: "/",
+    link: "/automation",
     icon: "fab fa-react"
   },
   {

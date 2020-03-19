@@ -13,7 +13,7 @@ const Login = () => {
 
       <div className="split right">
         <div className="center-right">
-          <h3>DEVDASH</h3>
+          <h3>GREYDASH</h3>
           <div className="login_inputs">
             <Input size="large" placeholder="Email" prefix={<UserOutlined />} />
             <Input.Password size="large" placeholder="Password" />

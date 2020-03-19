@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Audience from "./components/Audience/Audience";
 import Login from "./components/Login/Login";
+import Automation from "./components/Automation/Automation";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Switch>
         <Route path="/" component={Audience} exact />
         <Route path="/login" component={Login} />
+        <Route path="/automation" component={Automation} />
       </Switch>
     </Router>
   );

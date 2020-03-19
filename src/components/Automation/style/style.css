@@ -1,0 +1,49 @@
+.main_auto {
+  margin: 2rem 6rem;
+}
+
+.auto_header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.ant-progress {
+  width: 30% !important;
+  float: right;
+}
+
+.ant-progress-inner {
+  height: 0.9rem;
+}
+
+.ant-progress-bg {
+  height: 1em !important;
+}
+
+.msg-filter {
+  margin: 1rem 0px;
+}
+
+.msg-filter button {
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+.news_card {
+  width: 100%;
+  margin: 1rem 0px !important;
+}
+
+.news_card a {
+  color: black;
+  text-decoration: none;
+}
+
+.news_card a:hover {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
