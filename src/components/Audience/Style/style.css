@@ -1,0 +1,78 @@
+.container {
+  margin: 3rem 6rem;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header > h2 {
+  margin: 0px auto 0px 0px;
+}
+
+.header > button {
+  justify-self: flex-end;
+}
+
+.options {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 1rem;
+}
+
+.options > div {
+  margin-right: 1rem;
+}
+
+.options > div > button {
+  margin-left: 2rem;
+}
+
+.menu-two {
+  margin: 0px 0px 0px auto;
+}
+
+@media (max-width: 1020px) and (min-width: 768px) {
+  .container {
+    margin: 3rem 1rem;
+  }
+  .options {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .options > div {
+    margin-right: 0px !important;
+  }
+  .options > div > button {
+    margin-left: 1rem;
+  }
+  .menu-two {
+    margin: 0px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    margin: 3rem 1rem;
+    width: 100vw;
+  }
+  .options {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .options > div {
+    margin-right: 0px !important;
+  }
+  .options > div > button {
+    margin-left: 1rem;
+  }
+  .menu-two {
+    margin: 0px;
+  }
+}
+/*# sourceMappingURL=style.css.map */

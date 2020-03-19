@@ -1,0 +1,47 @@
+nav
+    box-shadow: 5px 3px 8px #F2F2F2
+.navigation
+    padding: 1rem
+    background: white
+    display: flex !important
+    justify-content: center
+    >ul
+        justify-self: center
+.nav-options
+    display: flex
+    list-style: none
+    margin: 0px auto
+    right: 1rem
+    li
+        padding: 5px 20px
+        font-size: 1.6rem
+        a
+            text-decoration: none
+            color: black
+            padding: 5px 15px
+        i
+            padding: 0px 5px
+.tools
+    display: flex
+    list-style: none
+    justify-self: flex-end
+    margin: 0px 0px 0px auto
+    li
+        padding: 10px 20px
+        a
+            color: black
+        i
+            font-size: 1.8rem
+
+@media (min-width: 768px) and (max-width: 1020px )
+    .nav-options
+        li
+            justify-content: space-between
+            span
+                display: none
+@media (max-width: 768px)
+    .nav-options
+        li
+            justify-content: space-between
+            span
+                display: none

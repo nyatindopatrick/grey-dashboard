@@ -1,0 +1,43 @@
+.container
+    margin: 3rem 6rem
+.header
+    display: flex
+    >h2
+        margin: 0px auto 0px 0px
+    >button
+        justify-self: flex-end
+
+.options
+    display: flex
+    margin-top: 1rem
+    >div
+        margin-right: 1rem
+        >button
+            margin-left: 2rem
+.menu-two
+    margin: 0px 0px 0px auto
+
+@media ( max-width: 1020px ) and (min-width: 768px)
+    .container
+        margin: 3rem 1rem
+    .options
+        justify-content: space-between
+        >div
+            margin-right: 0px !important
+            >button
+                margin-left: 1rem
+    .menu-two
+        margin: 0px
+
+@media screen and ( max-width: 768px )
+    .container
+        margin: 3rem 1rem
+        width: 100vw
+    .options
+        justify-content: space-between
+        >div
+            margin-right: 0px !important
+            >button
+                margin-left: 1rem
+    .menu-two
+        margin: 0px

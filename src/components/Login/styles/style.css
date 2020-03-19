@@ -1,0 +1,84 @@
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(211, 211, 211, 0.6)), to(rgba(0, 0, 0, 0.5))), url("https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background: linear-gradient(rgba(211, 211, 211, 0.6), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  -webkit-filter: grayscale(80%);
+          filter: grayscale(80%);
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-color: white;
+}
+
+.right h3 {
+  font-size: 2rem;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.center-right {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.login_inputs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 25vw;
+}
+
+.login_inputs > span {
+  margin: 1rem;
+}
+
+.login-buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 25vw;
+}
+
+.btn_login {
+  border: 2px solid black !important;
+  color: black !important;
+  padding: 5px 20px !important;
+}
+
+.btn_login:hover {
+  background: black !important;
+  color: white !important;
+}
+/*# sourceMappingURL=style.css.map */
