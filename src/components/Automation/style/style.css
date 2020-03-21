@@ -44,6 +44,6 @@
 }
 
 .news_card a:hover {
-  color: black;
+  color: black !important;
 }
 /*# sourceMappingURL=style.css.map */

@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-import { Progress, Button, Card } from "antd";
+import { Progress, Button, Card} from "antd";
 import { PlusOutlined } from "@ant-design/icons";
 import Moment from "react-moment";
 import "./style/style.css";
 import data from "./data.json";
+import Loading from "../Loading/loading";
 
 const Automation = () => {
   const [posts, setPosts] = useState(null);
@@ -33,7 +34,9 @@ const Automation = () => {
         <Button type="" shape="circle" icon={<PlusOutlined />} size="large" />
       </div>
       <div>
-        {posts &&
+        {!posts ? (
+          <Loading />
+        ) : (
           posts.map(({ title, description, url, content, publishedAt }, i) => (
             <Card
               key={i}
@@ -43,7 +46,8 @@ const Automation = () => {
             >
               <a href={url}>{content}</a>
             </Card>
-          ))}
+          ))
+        )}
       </div>
     </div>
   );

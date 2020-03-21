@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Audience from "./components/Audience/Audience";
 import Login from "./components/Login/Login";
 import Automation from "./components/Automation/Automation";
+import LiveChat from "./components/Chat/LiveChat";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" component={Audience} exact />
         <Route path="/login" component={Login} />
         <Route path="/automation" component={Automation} />
+        <Route path="/chat" component={LiveChat} />
       </Switch>
     </Router>
   );

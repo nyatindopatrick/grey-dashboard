@@ -7,34 +7,38 @@ export default function Navbar() {
   return (
     <nav>
       <div className="navigation">
-      <ul className="nav-options">
-        {navigation.map(({ label, link, icon }, i) => (
-          <li key={i}>
-            <Link to={link}>
-                <i className={icon}></i>
-              <span>
-              {label}
-              </span>
+        <ul className="nav-options">
+          {navigation.map(({ label, link, icon }, i) => (
+            <li key={i}>
+              <Link to={link}>
+                <img src={icon} alt="" />
+                <span>{label}</span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+        <ul className="tools">
+          <li>
+            <Link to="/">
+              <Tooltip placement="bottom" title="settings">
+                <img
+                  src="https://image.flaticon.com/icons/svg/2099/2099058.svg"
+                  alt=""
+                />
+              </Tooltip>
             </Link>
           </li>
-        ))}
-      </ul>
-      <ul className="tools">
-        <li>
-          <Link to="/">
-            <Tooltip placement="bottom" title="settings">
-              <i className="fas fa-cog"></i>
-            </Tooltip>
-          </Link>
-        </li>
-        <li>
-          <Link to="/login">
-            <Tooltip placement="bottom" title="logout">
-              <i className="fas fa-power-off"></i>
-            </Tooltip>
-          </Link>
-        </li>
-      </ul>
+          <li>
+            <Link to="/login">
+              <Tooltip placement="bottom" title="logout">
+                <img
+                  src="https://image.flaticon.com/icons/svg/402/402593.svg"
+                  alt=""
+                />
+              </Tooltip>
+            </Link>
+          </li>
+        </ul>
       </div>
     </nav>
   );
@@ -44,21 +48,21 @@ const navigation = [
   {
     label: "Audience",
     link: "/",
-    icon: "fas fa-users"
+    icon: "https://image.flaticon.com/icons/svg/615/615075.svg"
   },
   {
     label: "Live chat",
-    link: "/",
-    icon: "far fa-comment"
+    link: "/chat",
+    icon: "https://image.flaticon.com/icons/svg/2462/2462719.svg"
   },
   {
     label: "Automation",
     link: "/automation",
-    icon: "fab fa-react"
+    icon: "https://image.flaticon.com/icons/svg/2289/2289213.svg"
   },
   {
     label: "Data",
     link: "/",
-    icon: "fas fa-chart-bar"
+    icon: "https://civicconnect.com/wp-content/uploads/2016/07/Data.png"
   }
 ];

@@ -39,8 +39,9 @@ nav {
   padding: 5px 15px;
 }
 
-.nav-options li i {
+.nav-options li img {
   padding: 0px 5px;
+  width: 2.5rem;
 }
 
 .tools {
@@ -60,8 +61,8 @@ nav {
   color: black;
 }
 
-.tools li i {
-  font-size: 1.8rem;
+.tools li img {
+  width: 2.5rem;
 }
 
 @media (min-width: 768px) and (max-width: 1020px) {

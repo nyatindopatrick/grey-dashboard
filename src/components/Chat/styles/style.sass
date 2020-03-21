@@ -1,0 +1,75 @@
+.main_chat
+    display: grid
+    grid-template-columns: 1fr 2fr 1fr
+
+.first_column
+    padding: 1rem 2rem
+    box-shadow: 0px 6px 10px grey
+    justify-items: center
+    height: 100vh
+    input
+        width: 100%
+
+.chats_col
+    margin: 1rem 0px
+.chat_item
+    width: 100%
+    background: #F8F8FF
+    padding: 10px
+    border-radius: 10px
+    display: grid
+    grid-template-columns: 1fr 2fr 1fr
+    justify-items: end
+    margin: 1rem 0px
+    cursor: pointer
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 12.3px 10.9px rgba(0, 0, 0, 0.072), 0 12.8px 33.4px rgba(0, 0, 0, 0.086), 0 20px 50px rgba(0, 0, 0, 0.12)
+    img
+        width: 3rem
+        opacity: 0.5
+        justify-self: center
+    small
+        color: #0388A6
+    >div
+        justify-self: start
+        margin: 0px 10px
+.chat_header
+    background: #F2F2F2
+    display: flex
+    position: relative
+    >div
+        display: grid
+        grid-template-columns: 1fr 2fr
+        padding: 1.7rem
+        img
+            width: 3rem
+            margin: 0px 1rem
+        p
+            color: #0388A6
+
+.ellipsis
+    width: 2rem
+    position: absolute
+    top: 35%
+    right: 1.7rem
+
+.chat_body
+    margin: 1rem 2rem
+    display: flex
+    flex-direction: column
+.chat_text
+    justify-self: flex-start
+
+    p
+        display: inline-block
+        padding: 7px
+        background: #DEEFEE
+        max-width: 45%
+        border-radius: 8px
+.chat_text_2
+    align-self: flex-end
+    background: #f8f8ff
+    max-width: 45%
+    border-radius: 8px
+    display: inline-block !important
+    p
+        padding: 5px
