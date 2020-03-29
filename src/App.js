@@ -5,6 +5,7 @@ import Audience from "./components/Audience/Audience";
 import Login from "./components/Login/Login";
 import Automation from "./components/Automation/Automation";
 import LiveChat from "./components/Chat/LiveChat";
+import Data from "./components/Data/Data";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/login" component={Login} />
         <Route path="/automation" component={Automation} />
         <Route path="/chat" component={LiveChat} />
+        <Route path="/data" component={Data} />
       </Switch>
     </Router>
   );

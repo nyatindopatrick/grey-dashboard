@@ -30,7 +30,7 @@
     grid-template-columns: 1fr 5fr
     padding: 1rem
     border-bottom: 1px dotted rgba(0, 0, 0, 0.25)
-
+    cursor: pointer
 .avatar
     position: relative
     >div
@@ -41,10 +41,17 @@
         margin-left: 2.1rem
 .chat_body
     background: #fafafa
-    padding: 2rem
     display: flex
     flex-direction: column
-
+    position: relative
+.chats_messages
+    padding: 2rem
+.chat_head
+    height: 4rem
+    background: #e9e9f3
+    h3
+        padding: 1rem 3rem
+        place-self: center
 .speech-bubble
     position: relative
     background: #e9e9f3
@@ -85,3 +92,21 @@
         border-bottom: 0
         margin-top: -6.5px
         margin-right: -13px
+.msg-form
+    display: flex
+    position: absolute
+    bottom: 10px
+    width: 90%
+    align-items: center
+    button
+        border: none
+        background: #fafafa
+        cursor: pointer
+        margin: 0px 5px
+        &:hover
+            background: #fafafa
+    img
+        // transform: rotate(60deg)
+        width: 2rem
+    span
+        display: none

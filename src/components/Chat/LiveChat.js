@@ -62,6 +62,21 @@ const LiveChat = () => {
           <Button onClick={handleChat} icon={<PlusOutlined />}></Button>
         </div>
         <div className="chats">
+          {
+            <div className="chat-item">
+              <div className="avatar">
+                <div></div>
+                <Avatar
+                  size="large"
+                  src="https://image.flaticon.com/icons/svg/709/709722.svg"
+                />
+              </div>
+              <div>
+                <h5>New Chat</h5>
+                <p>The shit is real</p>
+              </div>
+            </div>
+          }
           <div className="chat-item">
             <div className="avatar">
               <div></div>

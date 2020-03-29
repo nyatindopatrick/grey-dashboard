@@ -1,0 +1,37 @@
+.top-card {
+  padding: 2rem;
+  background: #f8f8ff;
+  margin: 2rem 3rem;
+}
+
+.analytic_container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+}
+
+.analytic_container > div {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  background: white;
+}
+
+.analytic_card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1rem;
+}
+/*# sourceMappingURL=style.css.map */

@@ -62,7 +62,7 @@ const navigation = [
   },
   {
     label: "Data",
-    link: "/",
+    link: "/data",
     icon: "https://civicconnect.com/wp-content/uploads/2016/07/Data.png"
   }
 ];
